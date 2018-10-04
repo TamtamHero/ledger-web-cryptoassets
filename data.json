@@ -1032,7 +1032,7 @@
 			"url": "",
 			"documentation": "https://support.ledgerwallet.com/hc/en-us/articles/360003294734-How-to-install-and-use-Bitcoin-Private-BTCP",
 			"wallets": "Electrum Wallet",
-			"compatible_devices": "Nano S",
+			"compatible_devices": ["Nano S", "Blue"],
 			"app_type": "Coin",
 			"wallet_url": ["https://electrum.org/#home"],
 			"date_coin": ""
@@ -1071,7 +1071,7 @@
 			"url": "",
 			"documentation": "https://support.ledgerwallet.com/hc/en-us/articles/360005054493",
 			"wallets": "Ledger Live",
-			"compatible_devices": "Nano S",
+			"compatible_devices": ["Nano S", "Blue"],
 			"app_type": "Coin",
 			"wallet_url": [],
 			"date_coin": ""
@@ -1305,7 +1305,7 @@
 			"url": "",
 			"documentation": "https://support.ledgerwallet.com/hc/en-us/articles/360007802253",
 			"wallets": ["MyCrypto", "MyEtherWallet"],
-			"compatible_devices": "Nano S",
+			"compatible_devices": ["Blue", "Nano S"],
 			"app_type": "Coin",
 			"wallet_url": ["https://mycrypto.com/account", "https://www.myetherwallet.com/"],
 			"date_coin": "August 7 2018"
@@ -1461,7 +1461,7 @@
 			"url": "",
 			"documentation": "https://support.ledgerwallet.com/hc/en-us/articles/360007749653",
 			"wallets": "Kowala Wallet tools",
-			"compatible_devices": "Nano S",
+			"compatible_devices": ["Blue", "Nano S"],
 			"app_type": "Coin",
 			"wallet_url": "https://wallet-tools.kowala.tech/",
 			"date_coin": "August 7 2018"
@@ -1578,7 +1578,7 @@
 			"url": "",
 			"documentation": "https://support.ledgerwallet.com/hc/en-us/articles/360007705894",
 			"wallets": "MyCrypto",
-			"compatible_devices": "Nano S",
+			"compatible_devices": ["Blue", "Nano S"],
 			"app_type": "Coin",
 			"wallet_url": "https://mycrypto.com/",
 			"date_coin": "August 7 2018"
@@ -1734,7 +1734,7 @@
 			"url": "",
 			"documentation": "https://support.ledgerwallet.com/hc/en-us/articles/360008798573",
 			"wallets": "Foxlet wallet application",
-			"compatible_devices": ["Nano S"],
+			"compatible_devices": ["Nano S", "Blue"],
 			"app_type": "Coin",
 			"wallet_url": "https://ficnetwork.com/en/wallet",
 			"date_coin": "September 4 2018"
@@ -2884,45 +2884,6 @@
 			"telegram": "https://t.me/singularitynet",
 			"twitter": "https://twitter.com/singularity_net",
 			"youtube": ""
-		}
-	},
-	{
-		"symbol": "AION",
-		"address": "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466",
-		"decimals": 8,
-		"name": "Aion",
-		"ens_address": "",
-		"website": "https://aion.network/",
-		"logo": {
-			"src": "https://cdn.shopify.com/s/files/1/2974/4858/files/Generic_tokens.png?13088152510336578181",
-			"width": "",
-			"height": "",
-			"ipfs_hash": ""
-		},
-		"support": {
-			"email": "",
-			"url": "",
-			"documentation": "",
-			"wallets": ["MyCrypto", "MyEtherWallet"],
-			"compatible_devices": ["Blue", "Nano S"],
-			"app_type": "Token",
-			"wallet_url": ["https://mycrypto.com/account", "https://www.myetherwallet.com/"],
-			"date_coin": ""
-		},
-		"social": {
-			"blog": "https://blog.aion.network/",
-			"chat": "",
-			"facebook": "https://www.facebook.com/AionBlockchain/",
-			"forum": "https://forum.aion.network/",
-			"github": "https://github.com/aionnetwork",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "https://linkedin.com/company/aion-network",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/aion_blockchain",
-			"twitter": "https://twitter.com/Aion_Network",
-			"youtube": "https://youtube.com/channel/UCu4u9tYEgUyNL9KMgrCZvXQ"
 		}
 	},
 	{
