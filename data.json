@@ -2044,7 +2044,7 @@
 		"support": {
 			"email": "",
 			"url": "",
-			"documentation": "https://support.ledgerwallet.com/hc/en-us/articles/360009710994",
+			"documentation": "https://coranos.github.io/bananos/ledger-nano-s/guide",
 			"wallets": ["BananoVault"],
 			"compatible_devices": ["Nano S"],
 			"app_type": "Coin",
